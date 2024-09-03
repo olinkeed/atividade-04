@@ -1,0 +1,31 @@
+1
+L 2: Valores originais de x, y e z: 1 2 3
+L 6: Valores finais de x, y e z dentro da funcao: 101 102 103
+L 12: Valores finais em main de a, b e c: 1 2 3
+
+2
+L 2: Valores originais na funcao - 1o, 2o, e 3o: 1 2 3
+L 6: Valores finais na funcao - 1o, 2o e 3o: 101 102 103
+L 12: Valores finais em main 1o, 2o e 3o: 101 102 103
+3
+L 7: Valor de a: 0 - valor de b: 5
+L 9: Valor de a: 5 - valor de b: 5
+
+4
+L 11: Antes de chamar por_valor: x = 2, y = 4, z = 6
+L 13: Depois de chamar por_valor: x = 2, y = 4, z = 6
+L 14: Antes de chamar por_ref: x = 2, y = 4, z = 6
+L 16: Depois de chamar por_ref: x = 0, y = 0, z = 0
+
+5
+L 3: num --> 11
+L 9: i --> 11
+6
+L 4: a --> 8
+L 5: b --> 7
+L 11: x --> 8
+L 12: y --> 2
+
+7
+A saída depende da entrada do usuário, mas o formato é: A soma de <a> e <b> --> <s>, onde <s> é a soma dos inteiros entre a e b, inclusive.
+B. Sim, é possível ler a variável z.
